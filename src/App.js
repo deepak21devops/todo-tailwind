@@ -4,8 +4,8 @@ import CreateTask from './Components/CreateTask';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div className="main" >
+      <header className="main-header">
         <CreateTask />
       </header>
     </div>
